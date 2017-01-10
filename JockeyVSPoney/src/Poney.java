@@ -15,7 +15,10 @@ public class Poney {
 		this.race = COUCOU;
 	}
 	
-	String bzjdnzjEDJIKZEJouiouiouiouioui;
+
+	String bzjdnzjEDJIKZEJouiouiouiouioui2;
+
+	String bzjdnzjEDJIKZEJrgrgergrx1;
 	int djksjfcdjiofvjqdiojvkeopfckizejf;
 	
 	
