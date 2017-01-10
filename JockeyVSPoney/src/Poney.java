@@ -10,5 +10,9 @@ public class Poney {
 	
 
 	public Poney() {}
+
+	public COUCOU(){
+		this.race = COUCOU;
+	}
 	
 }
