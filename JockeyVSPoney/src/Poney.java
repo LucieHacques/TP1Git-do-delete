@@ -11,4 +11,10 @@ public class Poney {
 
 	public Poney() {}
 	
+	String bzjdnzjEDJIKZEJ;
+	int djksjfcdjiofvjqdiojvopkeopfckizejf;
+	
+	
+
+	
 }
