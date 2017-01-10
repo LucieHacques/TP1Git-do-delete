@@ -10,6 +10,10 @@ public class Poney {
 	
 
 	public Poney() {}
+
+	public COUCOU(){
+		this.race = COUCOU;
+	}
 	
 	String bzjdnzjEDJIKZEJ;
 	int djksjfcdjiofvjqdiojvkeopfckizejf;
