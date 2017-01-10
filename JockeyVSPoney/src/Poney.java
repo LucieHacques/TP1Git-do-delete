@@ -11,7 +11,7 @@ public class Poney {
 
 	public Poney() {}
 
-	public COUCOU(){
+	public void COUCOU(){
 		this.race = COUCOU;
 	}
 	
